@@ -1,0 +1,16 @@
+{
+    "name": "Agava.AssetStream.Samples.Shop",
+    "rootNamespace": "",
+    "references": [
+        "GUID:ebcba29696c856849a296fd1e3c9dd32"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
